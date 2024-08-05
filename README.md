@@ -1,5 +1,5 @@
 # wyckoff
-## Wyckoff Ave. (Kings Co., N.Y.) land use
+## Wyckoff Ave. (Kings–Queens Cos., N.Y.) land use
 
 This project was created for Ankit Bhardwaj's Environmental Justice & Inequality class in the summer of 2024 at New York University.
 
