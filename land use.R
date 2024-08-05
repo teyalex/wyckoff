@@ -89,7 +89,7 @@
             panel.grid.major.x = element_blank()
             ) +
       labs(title = "Historic land use on Wyckoff Avenue",
-           subtitle = str_wrap("Land uses recorded sporadically on blocks bordering Wyckoff Ave., Kings Co., N.Y. from 1888 to 1981", 90),
+           subtitle = str_wrap("Land uses recorded sporadically on blocks bordering Wyckoff Ave., Kings–Queens Cos., N.Y. from 1888 to 1981", 90),
            caption = str_wrap("Historic land use data maintained by the NYC Office of Environmental Mediation, updated Nov. 2021. Accessed July 2024 via NYC Open Data. github.com/teyalex/wyckoff", 110),
            x = "Land use type",
            y = "Number of lots",
@@ -107,7 +107,7 @@
             panel.grid.major.x = element_blank()
             ) +
       labs(title = "Contemporary land use on Wyckoff Avenue",
-           subtitle = str_wrap("Land uses on blocks bordering Wyckoff Ave., Kings Co., N.Y. in 2024", 90),
+           subtitle = str_wrap("Land uses on blocks bordering Wyckoff Ave., Kings–Queens Cos., N.Y. in 2024", 90),
            caption = str_wrap("Primary Land Use Tax Lot Output data maintained by the NYC Department of City Planning, updated July 2024. Accessed July 2024 via NYC Open Data. github.com/teyalex/wyckoff", 95),
            x = "Land use type",
            y = "Number of lots",
@@ -130,7 +130,7 @@
             panel.grid.major.x = element_blank()
       ) +
       labs(title = "Historic construction on Wyckoff Avenue",
-           subtitle = str_wrap("Types of construction on blocks bordering Wyckoff Ave, Kings Co., N.Y.", 90),
+           subtitle = str_wrap("Types of construction on blocks bordering Wyckoff Ave, Kings–Queens Cos., N.Y.", 90),
            caption = str_wrap("Primary Land Use Tax Lot Output data maintained by the NYC Department of City Planning, updated July 2024. Accessed July 2024 via NYC Open Data. github.com/teyalex/wyckoff", 95),
            x = "Land use type",
            y = "Number of lots",
